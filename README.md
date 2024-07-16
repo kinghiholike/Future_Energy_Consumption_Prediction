@@ -1,0 +1,3 @@
+#follow this like to check out the model.
+
+https://colab.research.google.com/gist/kinghiholike/2ac53fb11da26e791d2d162a4d94641e/futter_energy_consumption.ipynb
